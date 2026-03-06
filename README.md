@@ -79,8 +79,8 @@ digital-village
 Tambahkan screenshot aplikasi pada folder `images`.
 
 
-![Landing Page]![alt text](https://github.com/notyourtype12/digitalvillagesmstr4/blob/main/public/image/screenshot_684dad868da97.jpg?raw=true)
-![Dashboard]![alt text](https://github.com/notyourtype12/digitalvillagesmstr4/blob/main/public/image/screenshot_684daddd866fe.jpg?raw=true)
+Landing Page![alt text](https://github.com/notyourtype12/digitalvillagesmstr4/blob/main/public/image/screenshot_684dad868da97.jpg?raw=true)
+Dashboard[alt text](https://github.com/notyourtype12/digitalvillagesmstr4/blob/main/public/image/screenshot_684daddd866fe.jpg?raw=true)
 
 ---
 
